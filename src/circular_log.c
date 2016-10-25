@@ -13,7 +13,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <pthread.h>
-#include <gtkmm.h>
+//#include <gtkmm.h>
 
 #define MAX_ITEMS    40
 #define LINE_LENGTH  256
